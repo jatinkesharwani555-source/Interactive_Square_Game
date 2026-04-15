@@ -61,7 +61,7 @@ This project demonstrates **DOM manipulation**, **event handling**, and **dynami
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/your-username/interactive-square-game.git
+   git clone https://github.com/jatin-kesharwani5/Interactive_Square_Game.git
    ```
 
 2. Open `index.html` in your browser
